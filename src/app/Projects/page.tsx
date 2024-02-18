@@ -16,24 +16,41 @@ const projects = () => {
       Description:
         "A system developed to the user to buy items such that the manager of the company can add the items to the system.",
       Language: "Done by using Java, Java Swing",
+      Link: "https://github.com/jumangl/Online-Shopping-System",
     },
     {
       Title: "Online House Rental Sytem",
       Description:
         "A system developed to the customer to search properties available for sale, add to favourites and remove from favourites and advanced search using react tabs.",
       Language: "Done by using React",
+      Link: "https://github.com/jumangl/Rightmove-House-for-Sale",
     },
     {
       Title: "Online Drum Player",
       Description:
         "An online drum which can be played by using the relavant keys of the keyboard",
       Language: "Done by using Vanilla Javascript",
+      Link: "https://github.com/jumangl/Drum_Challenge",
     },
     {
       Title: "Dremap Personalized Learning (Group Project)",
-      Description: "Still project in progres...",
+      Description: "Still project in progress...",
       Language:
-        "Front-End: Nextjs\n, Back-End: Nestjs\n, Machine Learning Component: Python",
+        "Front-End: Nextjs\n, Back-End: Nestjs\n, Data Science Component: Python",
+      Link: "https://github.com/SDGP-CS-64-DreMap",
+    },
+    {
+      Title: "HirelyAI",
+      Description: "Still project in progress...",
+      Language:
+        "Front-End: Reactjs\n, Back-End: Nodejs\n, Machine Learning Component: Python",
+      Link: "",
+    },
+    {
+      Title: "Personal Portfolio",
+      Description: "Live on Vercel",
+      Language: "Front-End: Nextjs\n, Back-End: Nestjs\n, Design: Figma",
+      Link: "glendev.vercel.app",
     },
   ];
   return (
@@ -56,7 +73,7 @@ const projects = () => {
                 </CardContent>
                 <CardFooter>
                   <Button className="bg: bg-green-500 hover:bg-[green]">
-                    <Link href="/login">View Project</Link>
+                    <Link href={project.Link}>View Project</Link>
                   </Button>
                 </CardFooter>
               </Card>
