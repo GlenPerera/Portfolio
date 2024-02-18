@@ -5,7 +5,7 @@ const About = () => {
   return (
     <main>
       <Navbar />
-      <div className="container mx-auto p-4 px-80">
+      <div className="container mx-auto px-6 md:px-80">
         <h1 className="text-white text-3xl font-bold">About Me</h1>
         <br />
         <br />
