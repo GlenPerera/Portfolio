@@ -23,7 +23,7 @@ const projects = () => {
       Description:
         "A system developed to the customer to search properties available for sale, add to favourites and remove from favourites and advanced search using react tabs.",
       Language: "Done by using React",
-      Link: "https://github.com/jumangl/Rightmove-House-for-Sale",
+      Link: "https://rightmove-residence-sale.vercel.app/",
     },
     {
       Title: "Online Drum Player",
@@ -41,14 +41,16 @@ const projects = () => {
     },
     {
       Title: "HirelyAI",
-      Description: "Still project in progress...",
-      Language:
-        "Front-End: Reactjs\n, Back-End: Nodejs\n, Machine Learning Component: Python",
+      Description:
+        "A platform in which job seekers can apply for jobs available in the platform and answer questions given by the company",
+
+      Language: "Front-End: Reactjs\n, Back-End: Nodejs\n",
       Link: "",
     },
     {
       Title: "Personal Portfolio",
-      Description: "Live on Vercel",
+      Description:
+        "Live on Vercel.\n A simple introduction of me and my skills.",
       Language: "Front-End: Nextjs\n, Back-End: Nestjs\n, Design: Figma",
       Link: "glendev.vercel.app",
     },
