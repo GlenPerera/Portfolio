@@ -37,7 +37,7 @@ const projects = () => {
       Description: "Still project in progress...",
       Language:
         "Front-End: Nextjs\n, Back-End: Nestjs\n, Data Science Component: Python",
-      Link: "https://github.com/SDGP-CS-64-DreMap",
+      Link: "https://dremap.vercel.app/",
     },
     {
       Title: "HirelyAI",
@@ -45,7 +45,7 @@ const projects = () => {
         "A platform in which job seekers can apply for jobs available in the platform and answer questions given by the company",
 
       Language: "Front-End: Reactjs\n, Back-End: Nodejs\n",
-      Link: "",
+      Link: "https://github.com/jumangl/hirely-FrontEnd.git",
     },
     {
       Title: "Personal Portfolio",
