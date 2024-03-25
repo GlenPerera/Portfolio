@@ -31,7 +31,7 @@ export default function Home() {
                     <Image src="/github.png" alt="git" width={40} height={40} />
                   </Link>
                 </li>
-                <li>
+                <li className="mr-4">
                   <Link href="https://Linkedin.com">
                     <Image
                       src="./linkedin.jpg"
@@ -39,6 +39,17 @@ export default function Home() {
                       width={40}
                       height={40}
                       className="rounded-md"
+                    />
+                  </Link>
+                </li>
+                <li>
+                  <Link href="https://www.behance.net/glenperera">
+                    <Image
+                      src="./behance.png"
+                      alt="linkedin"
+                      width={40}
+                      height={40}
+                      className="rounded-md bg-white"
                     />
                   </Link>
                 </li>
