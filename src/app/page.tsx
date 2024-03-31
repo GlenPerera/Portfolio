@@ -27,7 +27,7 @@ export default function Home() {
               </p>
               <ul className="flex flex-row justify-center mt-6">
                 <li className="mr-4">
-                  <Link href="https://github.com/jumangl">
+                  <Link href="https://github.com/GlenPerera">
                     <Image src="/github.png" alt="git" width={40} height={40} />
                   </Link>
                 </li>
