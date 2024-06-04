@@ -23,7 +23,7 @@ export default function Home() {
               <p className="text-2xl font-bold">Hi, I&apos;m Glen Perera</p>
               <p className="mt-4">
                 Full-Stack Developer, Typescript, ReactJS, NodeJS, SpringBoot, 
-                NextJS, Java, PHP, MongoDB, Machine-Learning Enthusiast.
+                NextJS, Java, PHP, MongoDB, MySQL, Machine-Learning Enthusiast.
               </p>
               <ul className="flex flex-row justify-center mt-6">
                 <li className="mr-4">
