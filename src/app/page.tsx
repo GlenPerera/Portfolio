@@ -22,8 +22,8 @@ export default function Home() {
             <div className="text-center text-white mt-8">
               <p className="text-2xl font-bold">Hi, I&apos;m Glen Perera</p>
               <p className="mt-4">
-                Full-Stack Developer, UI/UX Enthusiast, Typescript, ReactJS,
-                NextJS, Figma, Java.
+                Full-Stack Developer, Typescript, ReactJS, NodeJS, SpringBoot, 
+                NextJS, Java, PHP, MongoDB, Machine-Learning Enthusiast.
               </p>
               <ul className="flex flex-row justify-center mt-6">
                 <li className="mr-4">
